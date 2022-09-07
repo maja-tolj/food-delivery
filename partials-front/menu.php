@@ -45,6 +45,9 @@
                             <li class="nav-item">
                                 <a href="<?php echo SITEURL;?>" class="nav-link">Contact</a>
                             </li>
+                            <li class="nav-item">
+                                <a href="<?php echo SITEURL;?>admin/login.php" class="nav-link">Admin</a>
+                            </li>
                         </ul>
                     <div class="hamburger">
                         <span class="bar"></span>

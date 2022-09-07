@@ -37,7 +37,10 @@
 
             
             <div>
-                <p>Don't have an account! <a href="registration.php">Register</a></p><br><br>
+                <p>Don't have an account! <a href="registration.php">Register</a></p><br>
+            </div>
+            <div>
+                <p>Back to Shop! <a href="<?php echo SITEURL;?>">Shop</a></p><br><br>
             </div>
 
             <!-- Login Form Ends Here -->
