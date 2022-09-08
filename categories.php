@@ -43,7 +43,7 @@
                                       {
                                         //Image Available
                                         ?>
-                                        <img src="<?php echo SITEURL; ?>images/category/<?php echo $image_name; ?>"class="img-responsive img-curve">
+                                        <img src="<?php echo SITEURL; ?>images/category/<?php echo $image_name; ?>"class="img-responsive img-curve" width="400px" height="500px">
                                         <?php
                                       }
                                     ?>

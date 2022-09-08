@@ -11,7 +11,7 @@
 
         ?>
         
-            <h2>Foods on Your Search <a href="#" class="text-white"><?php echo $search; ?></a></h2>
+            <h2 id="order-title" >Foods on Your Search <a href="#" ><?php echo $search; ?></a></h2>
 
         </div>
     </section>
@@ -66,7 +66,7 @@
                                   {
                                      //Image Available/
                                      ?>
-                                     <img src="<?php echo SITEURL; ?>images/food/<?php echo $image_name ?>" class="img-responsive img-curve">
+                                     <img src="<?php echo SITEURL; ?>images/food/<?php echo $image_name ?>" class="img-responsive img-curve" width="150px" height="120px" >
                                      <?php
                                   }
 

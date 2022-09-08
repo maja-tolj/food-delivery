@@ -75,7 +75,7 @@
                            {
                              //Display the image
                              ?>
-                             <img src="<?php echo SITEURL; ?>images/food/<?php echo $current_image; ?>" width="150px">
+                             <img src="<?php echo SITEURL; ?>images/food/<?php echo $current_image; ?>" width="150px" height="150px">
                              <?php
                            }
                         ?>
